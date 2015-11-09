@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPublishingLibrary</string>
+    <string name="library_test_string">Library Test</string>
+</resources>
